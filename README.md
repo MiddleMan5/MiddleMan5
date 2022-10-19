@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile!
 
-Some facts about me
+Some facts about me:
 
 🚀 I'm a total space nerd!<br>🌱 My current side project is an IoT soil monitoring system with Prometheus<br>⚡ I'm America-born, but I grew up in New Zealand<br>☸️ I'm a kubernetes believer 
 
