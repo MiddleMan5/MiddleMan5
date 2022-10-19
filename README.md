@@ -1,5 +1,8 @@
-# 💫 About Me:
-🚀 I'm passionate about all things space!<br>🌱 My current side project is an IoT soil monitoring system with Prometheus<br>⚡ I'm America-born, but I grew up in New Zealand<br>☸️ I'm a true believer in kubernetes 
+# Welcome to my GitHub profile!
+
+Some facts about me
+
+🚀 I'm a total space nerd!<br>🌱 My current side project is an IoT soil monitoring system with Prometheus<br>⚡ I'm America-born, but I grew up in New Zealand<br>☸️ I'm a kubernetes believer 
 
 
 ## 🌐 Socials:
